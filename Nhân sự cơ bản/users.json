@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Nguyen",
+        "lastName": "Van A",
+        "dateOfBirth": "1990-01-01",
+        "address": "Ha Noi",
+        "jobPosition": "Developer",
+        "salary": 5000
+    },
+    {
+        "firstName": "Tran",
+        "lastName": "Thi B",
+        "dateOfBirth": "1992-05-15",
+        "address": "Ho Chi Minh",
+        "jobPosition": "Designer",
+        "salary": 4000
+    },
+    {
+        "firstName": "Tran",
+        "lastName": "Han",
+        "dateOfBirth": "2003-05-17",
+        "address": "An Kh\u00e1nh",
+        "jobPosition": "ak",
+        "salary": "100000000"
+    }
+]
