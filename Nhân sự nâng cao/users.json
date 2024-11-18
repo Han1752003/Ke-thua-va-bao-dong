@@ -1,0 +1,18 @@
+[
+    {
+        "firstName": "Tran",
+        "lastName": "Han",
+        "dateOfBirth": "2003-05-17",
+        "address": "An Kh\u00e1nh",
+        "jobPosition": "admin",
+        "salary": "1234567890"
+    },
+    {
+        "firstName": "ngo",
+        "lastName": "ha",
+        "dateOfBirth": "2005-03-12",
+        "address": "thai nguyen",
+        "jobPosition": "l\u00ednh",
+        "salary": "1234567"
+    }
+]
